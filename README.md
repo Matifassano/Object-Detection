@@ -1,11 +1,12 @@
 # Object Detection
-This project implements an object detection system using computer vision and artificial intelligence techniques. It allows to identify and classify objects in images or video in real time.
+This project implements an object detection system using computer vision and artificial intelligence techniques. It allows to identify and classify objects in real time videos.
 
 # Technologies used:
 - Python: Main programming language.
 - OpenCV: For image processing and video manipulation.
 - YOLOv11: For the implementation of the object detection model.
-- Tkinter: To load the video and display the results.
+- Tkinter: To load the link video and display the results.
+- Yt-dlp: To download the YT video.
 
 # Installation and execution
 To clone and run the project locally, follow these steps:
